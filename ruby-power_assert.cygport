@@ -1,7 +1,7 @@
 inherit rubygem
 
 NAME="ruby-power_assert"
-VERSION=1.1.1
+VERSION=1.1.4
 RELEASE=1
 CATEGORY="Ruby"
 SUMMARY="Power Assert for Ruby"
